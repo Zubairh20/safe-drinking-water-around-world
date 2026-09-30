@@ -98,7 +98,7 @@ These measures respond dynamically to the **World Region/Continent** slicer, all
 - **Interactive Filtering** – Implemented a World Region/Continent slicer so users can explore the dashboard by geographic area.
 - **Comparative Visualization** – Used bar charts and clustered column charts to compare urban and rural access across regions and countries.
 - **Data Interpretation** – Translated a global dataset into concise visual summaries highlighting geographic differences, trends, and urban–rural disparities.
-
+- **Data Cleaning** – Transforming data from dataset to match a consistent visualization.  To see the data without that, please refer to the xlsx file "urban-vs-rural-safely-managed-drinking-water-source".
 ## Data Source
 
 The dataset was obtained from **Our World in Data**:
