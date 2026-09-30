@@ -115,7 +115,7 @@ A safely managed drinking water service is defined as an improved drinking water
 
 The dataset notes that where 2024 data is unavailable for a location, the closest available year between 2014 and 2023 may be shown instead.
 
-**Dataset:** [Our World in Data – Using safely managed drinking water in urban vs. rural areas](https://ourworldindata.org/grapher/urban-vs-rural-safely-managed-drinking-water-source?utm_source=chatgpt.com)
+**Dataset:** [Our World in Data – Using safely managed drinking water in urban vs. rural areas](https://ourworldindata.org/grapher/urban-vs-rural-safely-managed-drinking-water-source?)
 
 ## Purpose
 
