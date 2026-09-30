@@ -72,14 +72,14 @@ The dashboard uses DAX measures to calculate average urban access, average rural
 
 #### Average Rural Access
 
-```DAX
+# DAX
 Average Rural Access =
 AVERAGE('urban-vs-rural-safely-managed-d'[Rural population])
 
 
 Average Urban Access =
 AVERAGE('urban-vs-rural-safely-managed-d'[Urban population])
-```
+
 Urban-Rural Gap =
 (AVERAGE('urban-vs-rural-safely-managed-d'[Urban population])) - (AVERAGE('urban-vs-rural-safely-managed-d'[Rural population]))
 
